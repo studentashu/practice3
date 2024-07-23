@@ -1,0 +1,36 @@
+#first{
+   height: 5em;
+    width: 20em;
+    background-color: rgba(7,94,84);
+    margin-left: 185px;
+}
+h3{
+    color: white;
+    /*margin-top: 15px;*/
+    margin-left:7px ;
+
+
+}
+.one{
+    margin-left: 20px;
+    color: white;
+    
+    
+}
+a{
+  margin-bottom: 2px;   
+  text-decoration: none;
+  color:white;
+}
+.link{
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+pre{
+    text-decoration: underline;
+}
+#chat{
+    color: black;
+    display: block;
+    margin-left:12em ;
+}

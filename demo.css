@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    color: rgba(7,94,84);
+    height: 100px;
+    width: 250px;
+    margin-left: 13em;
+}
+a{
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    margin-top: oem;
+    margin-left:250px;
+
+}
+img{
+    height: 10em;
+    margin-top: 0em;
+    margin-left: 250px;
+    color: blue;
+    border: 2px solid green;
+    border-radius: 50%;
+
+}
